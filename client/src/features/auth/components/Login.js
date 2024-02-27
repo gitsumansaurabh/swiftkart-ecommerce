@@ -27,7 +27,7 @@ export default function Login() {
             />
           </div>
         </div>
-        <div className="lg:col-span-1 min-w-full min-w-fit bg-white mt-12 w-full">
+        <div className="lg:col-span-1 min-w-full min-w-fit bg-white  w-full">
           {user && <Navigate to="/" replace={true}></Navigate>}
           <div className="flex min-h-full flex-1 flex-col justify-center px-6 lg:py-12 lg:px-8 lg:bg-gradient-to-r from-white to-blue-100 ">
             <div className="sm:mx-auto sm:w-full sm:max-w-sm">
