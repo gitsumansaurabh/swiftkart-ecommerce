@@ -28,10 +28,10 @@ export default function Signup() {
             />
           </div>
         </div>
-        <div className="lg:col-span-1 bg-white content-center">
+        <div className="lg:col-span-1 bg-white content-center mt-12">
           {user && <Navigate to="/" replace={true}></Navigate>}
           <div className="flex min-h-full flex-1 flex-col justify-center px-6 lg:py-12 lg:px-8 lg:bg-gradient-to-r from-white to-blue-100 ">
-            <div className="sm:mx-auto sm:w-full sm:max-w-sm">
+            <div className="sm:mx-auto sm:w-full sm:max-w-sm ">
               <img
                 className="mx-auto h-16 w-16"
                 src={shop22}

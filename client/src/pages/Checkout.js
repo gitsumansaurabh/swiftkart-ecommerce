@@ -460,8 +460,8 @@ function Checkout() {
                                 {item.product.brand}
                               </p>
                             </div>
-                            <div className="flex flex-1 items-end justify-between text-sm">
-                              <div className="text-gray-500">
+                            <div className="flex flex-1 items-end justify-between text-sm rounded-md mt-2">
+                              <div className="text-gray-500 rounded-md mt-2">
                                 <label
                                   htmlFor="quantity"
                                   className="inline mr-5 text-sm font-medium leading-6 text-gray-900"
@@ -469,6 +469,7 @@ function Checkout() {
                                   Qty
                                 </label>
                                 <select
+                                  className="rounded-md mt-2"
                                   onChange={(e) => handleQuantity(e, item)}
                                   value={item.quantity}
                                 >
