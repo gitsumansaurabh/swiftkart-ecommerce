@@ -52,7 +52,7 @@ export default function Login() {
                     })
                   );
                 })}
-                className="space-y-6"
+                className="space-y-6 w-full"
               >
                 <div>
                   <label
