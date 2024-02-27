@@ -4,6 +4,8 @@ import { resetCartAsync } from "../features/cart/cartSlice";
 import { useDispatch, useSelector } from "react-redux";
 import { selectLoggedInUser } from "../features/auth/authSlice";
 import { resetOrder } from "../features/order/orderSlice";
+import Navbar from "../../src/features/navbar/Navbar";
+import NavBar from "../../src/features/navbar/Navbar";
 
 function OrderSuccessPage() {
   const params = useParams();
@@ -18,14 +20,12 @@ function OrderSuccessPage() {
 
   return (
     <>
+      <NavBar></NavBar>
       {!params.id && <Navigate to="/" replace={true}></Navigate>}
-      <main className="grid w-screen h-screen place-items-center bg-white px-6 py-24 sm:py-32 lg:px-8">
+      <main className="grid h-screen place-items-center bg-white px-6 py-24 sm:py-32 lg:px-8">
         <div className="text-center">
-          <h2 className="text-base text-3xl font-bold text-indigo-600">
-            Order Successfully Placed
-          </h2>
-          <h1 className="mt-4 text-3xl font-bold tracking-tight text-green-700 sm:text-5xl">
-            Order Number #{params?.id}
+          <h1 className="mt-4 text-3xl font-bold tracking-tight text-green-500 sm:text-5xl">
+            Thank you for Order, we will deliever it soon !!!
           </h1>
           <p className="mt-6 text-base leading-7 text-gray-600">
             You can check your order in My Account in My Orders

@@ -212,7 +212,7 @@ function NavBar({ children }) {
                           {userInfo.name}
                         </div>
 
-                        <div className="text-sm font-medium leading-none text-gray-400">
+                        <div className="text-sm font-medium leading-none text-gray-400 ">
                           {userInfo.email}
                         </div>
                       </div>

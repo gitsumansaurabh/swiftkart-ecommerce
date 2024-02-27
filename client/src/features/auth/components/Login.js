@@ -18,8 +18,8 @@ export default function Login() {
 
   return (
     <>
-      <div className="grid grid-cols-3 bg-white h-screen flex flex-wrap max-w-fit h-screen">
-        <div className="col-span-2 min-w-full min-w-96 ">
+      <div className="grid lg:grid-cols-3 bg-white h-screen  flex flex-wrap max-w-fit h-screen">
+        <div className="lg:col-span-2 min-w-full min-w-96 ">
           <div>
             <img
               className="w-full rounded-lg object-cover object-center"
@@ -27,9 +27,9 @@ export default function Login() {
             />
           </div>
         </div>
-        <div className="col-span-1 min-w-full min-w-fit ">
+        <div className="lg:col-span-1 min-w-full min-w-fit bg-white ">
           {user && <Navigate to="/" replace={true}></Navigate>}
-          <div className="flex min-h-full flex-1 flex-col justify-center px-6 py-12 lg:px-8 bg-gradient-to-r from-white to-blue-100">
+          <div className="flex min-h-full flex-1 flex-col justify-center px-6 lg:py-12 lg:px-8 lg:bg-gradient-to-r from-white to-blue-100 ">
             <div className="sm:mx-auto sm:w-full sm:max-w-sm">
               <img
                 className="mx-auto h-20 w-20"
@@ -126,7 +126,7 @@ export default function Login() {
                 </div>
               </form>
 
-              <p className="mt-10 text-center text-sm text-gray-500">
+              <p className="mt-10 text-center text-sm text-gray-500 mb-10">
                 Not a member?{" "}
                 <Link
                   to="/signup"

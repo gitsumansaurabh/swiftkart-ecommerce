@@ -2,6 +2,10 @@ import { Typography } from "@material-tailwind/react";
 
 const SITEMAP = [
   {
+    title: "Products",
+    links: ["Discounts", "Coupons", "Sales", "Deals"],
+  },
+  {
     title: "Company",
     links: ["About Us", "Careers", "Our Team", "Projects"],
   },
@@ -13,10 +17,6 @@ const SITEMAP = [
     title: "Resources",
     links: ["Blog", "Newsletter", "Free Products", "Affiliate Program"],
   },
-  {
-    title: "Products",
-    links: ["Templates", "UI Kits", "Icons", "Mockups"],
-  },
 ];
 
 const currentYear = new Date().getFullYear();
@@ -25,7 +25,7 @@ export default function Footer() {
   return (
     <footer className="relative w-full bg-gradient-to-b from-white to-cyan-100">
       <div className="mx-auto w-full max-w-7xl px-8">
-        <div className="mx-auto grid w-full grid-cols-1 gap-8 py-12 md:grid-cols-2 lg:grid-cols-4">
+        <div className="mx-auto grid w-full grid-cols-1 gap-8 py-12 grid-cols-2 lg:grid-cols-4">
           {SITEMAP.map(({ title, links }, key) => (
             <div key={key} className="w-full">
               <Typography

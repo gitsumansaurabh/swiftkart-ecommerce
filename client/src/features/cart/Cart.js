@@ -94,7 +94,7 @@ export default function Cart() {
                           {item.product.brand}
                         </p>
                       </div>
-                      <div className="flex flex-1 items-end justify-between text-sm rounded-md">
+                      <div className="flex flex-1 items-end justify-between text-sm mt-2 rounded-md">
                         <div className="text-gray-500 ">
                           <label
                             htmlFor="quantity"
@@ -103,6 +103,7 @@ export default function Cart() {
                             Qty
                           </label>
                           <select
+                            className="rounded-md"
                             onChange={(e) => handleQuantity(e, item)}
                             value={item.quantity}
                           >
@@ -129,7 +130,7 @@ export default function Cart() {
                               setOpenModal(item.id);
                             }}
                             type="button"
-                            className="font-medium text-indigo-600 hover:text-indigo-500"
+                            className="font-medium text-indigo-600 hover:text-indigo-500 "
                           >
                             Remove
                           </button>
@@ -162,7 +163,7 @@ export default function Cart() {
                 Checkout
               </Link>
             </div>
-            <div className="mt-6 flex justify-center text-center text-sm text-gray-500">
+            <div className="mt-6 mb-20 flex justify-center text-center text-sm text-gray-500">
               <p>
                 or{" "}
                 <Link to="/">

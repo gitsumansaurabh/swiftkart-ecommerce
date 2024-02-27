@@ -148,14 +148,14 @@ export default function ProductDetail() {
             <div className="hidden lg:grid lg:grid-cols-1 lg:gap-y-8 object-contain">
               <div className="aspect-h-2 aspect-w-3 overflow-hidden rounded-lg">
                 <img
-                  className="object-contain"
+                  className=" object-fill lg:object-contain"
                   src={product.images[1]}
                   alt={product.title}
                 />
               </div>
-              <div className="aspect-h-2 aspect-w-3 overflow-hidden rounded-lg object-contain">
+              <div className="aspect-h-2 aspect-w-3 overflow-hidden rounded-lg object-fill rounded-md">
                 <img
-                  className="object-contain"
+                  className="object-fill lg:object-contain"
                   src={product.images[2]}
                   alt={product.title}
                 />
@@ -165,6 +165,27 @@ export default function ProductDetail() {
               <img
                 className="object-contain"
                 src={product.images[3]}
+                alt={product.title}
+              />
+            </div>
+            <div className="lg:hidden object-contain aspect-h-5 aspect-w-4 lg:aspect-h-4 lg:aspect-w-3 sm:overflow-hidden sm:rounded-lg">
+              <img
+                className="object-contain"
+                src={product.images[2]}
+                alt={product.title}
+              />
+            </div>
+            <div className="lg:hidden object-contain aspect-h-5 aspect-w-4 lg:aspect-h-4 lg:aspect-w-3 sm:overflow-hidden sm:rounded-lg">
+              <img
+                className="object-contain"
+                src={product.images[1]}
+                alt={product.title}
+              />
+            </div>
+            <div className="lg:hidden object-contain aspect-h-5 aspect-w-4 lg:aspect-h-4 lg:aspect-w-3 sm:overflow-hidden sm:rounded-lg">
+              <img
+                className="object-contain"
+                src={product.images[0]}
                 alt={product.title}
               />
             </div>
