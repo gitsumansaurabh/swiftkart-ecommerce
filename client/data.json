@@ -1,0 +1,1612 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple iPhone 15 Pro Max ",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 159900,
+      "discountPercentage": 15,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/81fxjeu8fdL._SX679_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81fxjeu8fdL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71TSx9D2BVL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81MDZsYTIoL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61uDGZFoleL._SX679_.jpg"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 2,
+      "title": "Apple iPhone 14 Plus ",
+      "description": "16.95 cm (6.7-inch) Super Retina XDR display avanced camera system for better photos in any light ,Cinematic mode now in 4K Dolby Vision up to 30 fps,Action mode for smooth, steady, handheld videos",
+      "price": 110000,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/71emcsxsRPL._SX679_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71emcsxsRPL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81mC15lI-2L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71iGjdzNjQL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81XBYxy29CL._SX679_.jpg"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 3,
+      "title": "Apple iPhone 15",
+      "description": "DYNAMIC ISLAND COMES TO IPHONE 15 — Dynamic Island bubbles up alerts and Live Activities — so you don’t miss them while you’re doing something else. You can see who’s calling, track your next ride, check your flight status, and so much more.",
+      "price": 90000,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/71d7rfSl0wL._SX679_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71d7rfSl0wL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/712CBkmhLhL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61f4dTush1L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81BnjSLm2oL._SX679_.jpg"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 4,
+      "title": "OPPOA78",
+      "description": "Oppo A78 5G (Glowing Blue, 8GB RAM, 128 Storage) | 5000 mAh Battery with 33W SUPERVOOC Charger| 50MP AI Camera | 90Hz Refresh Rate | with No Cost EMI/Additional Exchange Offers",
+      "price": 25000,
+      "discountPercentage": 10,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "Smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/8104evx11QL._SX679_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/8104evx11QL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71DxJcDAZUL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81wH9D3EgEL._SX679_.jpg",
+
+        "https://m.media-amazon.com/images/I/818Xu-BSonL._SX679_.jpg"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 5,
+      "title": "Samsung Galaxy S24",
+      "description": "Meet Galaxy S24 Ultra, the ultimate form of Galaxy Ultra with a new titanium exterior and a 17.25cm (6.8) flat display. It's an absolute marvel of design.",
+      "price": 150000,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/71CXhVhpM0L._SX679_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71CXhVhpM0L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71JLhofuYJL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71RaUP4g7KL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71JLhofuYJL._SX679_.jpg"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 6,
+      "title": "SAMSUNG Galaxy M04",
+      "description": "Pro-grade Camera with AI Single Take, Portrait Mode, Night Mode and 30X Space zoom. Dual Recording: Film in both wide and selfie angles at the same time | 12MP F1.8 Main Camera (Dual Pixel AF & OIS) + 12MP UltraWide Camera (123° FOV) + 8MP Telephoto Camera (3x Optic Zoom, 30X Space Zoom, OIS) | 32 MP F2.2 Front Camera",
+      "price": 15000,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/v/y/b/galaxy-m04-sm-m045f-samsung-original-imagmazrn5szgza8.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/v/y/b/galaxy-m04-sm-m045f-samsung-original-imagmazrn5szgza8.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/v/y/b/galaxy-m04-sm-m045f-samsung-original-imagmazrn5szgza8.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/e/n/galaxy-m04-sm-m045f-samsung-original-imagmazrfawdszxh.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/0/2/galaxy-m04-sm-m045f-samsung-original-imagmazrx4cnx9d6.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book2",
+      "description": "Samsung Galaxy Book2 (NP750) Intel 12th Gen core i5 39.6cm (15.6) FHD Thin & Light Laptop (8 GB/512 GB/Windows 11/MS Office/Backlit Keyboard/Finger Print Reader/Silver/1.55Kg), NP750XED-KC1IN",
+      "price": 90000,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "Laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/71VETao+NEL._SX679_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71VETao+NEL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61HVYZ9qccL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61XZlkNNdqL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61RDtQf6LeL._SX679_.jpg"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 8,
+      "title": "Microsoft Laptop 4",
+      "description": "Microsoft Surface Laptop GO2 Touch Screen 12.4 inches, 11th Gen Intel ® Core i5/8GB RAM /256 GB SSD, Windows Hello, Platinum - (8QF-00046)",
+      "price": 59999,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Microsoft",
+      "category": "Laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/41JM2AxnD9L.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/41JM2AxnD9L.jpg",
+        "https://m.media-amazon.com/images/I/61ztzWzTpSL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/31TwwArklwL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/410upNOUw5L._SX679_.jpg"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 9,
+      "title": "Infinix INBook Y1 Plus",
+      "description": "Infinix INBook Y1 Plus Intel Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) XL28 Thin and Light Laptop (15.6 inch, Grey, 1.76 kg)",
+      "price": 50000,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Infinix",
+      "category": "Laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/51+UfXQmjHL._SX679_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/51+UfXQmjHL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/317rvYIP1FL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51txooKZ5NL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51m1pd41INL._SX679_.jpg"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 10,
+      "title": "HP Pavilion x360",
+      "description": "HP Pavilion x360, 11th Gen Intel Core i5-1155G7, 14-inch (35.6 cm), FHD, 16GB DDR4, 512GB SSD, Intel Iris Xe Graphics, FPR, Backlit KB, Audio by B&O (Win 11, MSO 2019, Silver, 1.52 kg), dy1048TU",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "Laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/41k8g5nVcjL._SX300_SY300_QL70_FMwebp_.jpg",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/p/g/b/-original-imagp7pfgpjvf4mh.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/t/p/3/14-ek0137tu-thin-and-light-laptop-hp-original-imaghqbza6ufhgkk.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/f/p/x/14-ek0072tu-thin-and-light-laptop-hp-original-imaghqbpetftkb5h.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/o/k/h/14-ek1009tu-thin-and-light-laptop-hp-original-imagnkt2ddv9vsgf.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 11,
+      "title": "Men T-Shirt",
+      "description": "Men Typography Round Neck Cotton Blend Dark Green T-Shirt",
+      "price": 2000,
+      "discountPercentage": 18.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "URGear",
+      "category": "Tshirt",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/k/s/y/s-urm006361p-urgear-original-imagnyyqgh8jn9gx.jpeg?q=70&crop=true",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/k/s/y/s-urm006361p-urgear-original-imagnyyqgh8jn9gx.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/p/3/f/s-urm006361p-urgear-original-imagnyyqk9tfmtvt.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/8/0/i/s-urm006361p-urgear-original-imagnyyqskucasv3.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/p/g/l/s-urm006361p-urgear-original-imagnyyqz8cfehup.jpeg?q=70&crop=true"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 12,
+      "title": " T-Shirt Men Neck",
+      "description": "Solid Men Round Neck Black T-Shirt Men Solid Round Neck Cotton Blend Black T-Shirt",
+      "price": 4000,
+      "discountPercentage": 50,
+      "rating": 4,
+      "stock": 52,
+      "brand": "Madfrog",
+      "category": "Tshirt",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/q/w/d/s-mf-t-pc-ds-plain-beige-madfrog-original-imagv2pnzvxw8vgk.jpeg?q=70&crop=true",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/q/w/d/s-mf-t-pc-ds-plain-beige-madfrog-original-imagv2pnzvxw8vgk.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/a/s/7/s-mf-t-pc-ds-plain-beige-madfrog-original-imagv2pn6ggf7gde.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/v/h/z/xl-pc-ds-plain-black-madfrog-original-imagsd7hfdepjhrq.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/r/z/2/xl-pc-ds-plain-black-madfrog-original-imagsd7hctswd62h.jpeg?q=70&crop=true"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 13,
+      "title": "Women Sweatshirt",
+      "description": "Women Full Sleeve Solid Sweatshirt",
+      "price": 1000,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "Roadster",
+      "category": "Tshirt",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/kgjqefk0/sweatshirt/g/c/g/l-11991230-roadster-original-imafwrg7hy4keebb.jpeg?q=70&crop=true",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/kgjqefk0/sweatshirt/g/c/g/l-11991230-roadster-original-imafwrg7hy4keebb.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/kgjqefk0/sweatshirt/g/c/g/xl-11991230-roadster-original-imafwrg7g5yhwkp3.jpeg?q=70&crop=true",
+
+        "https://rukminim2.flixcart.com/image/832/832/kgjqefk0/sweatshirt/g/c/g/l-11991230-roadster-original-imafwrg7fup7r4gm.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/kgjqefk0/sweatshirt/g/c/g/xl-11991230-roadster-original-imafwrg7gzguzqcj.jpeg?q=70&crop=true"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 14,
+      "title": "Cotton T-Shirt",
+      "description": "Men Printed Round Neck Pure Cotton Yellow T-Shirt",
+      "price": 820,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 114,
+      "brand": "Roadster",
+      "category": "Tshirt",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/k2xmd8w0/t-shirt/n/e/v/l-9972601-roadster-original-imafhytxf6rhyznu.jpeg?q=70&crop=true",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/k2xmd8w0/t-shirt/n/e/v/l-9972601-roadster-original-imafhytxf6rhyznu.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/k2xmd8w0/t-shirt/n/e/v/l-9972601-roadster-original-imafhytxvgfhfqz5.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/k2xmd8w0/t-shirt/n/e/v/l-9972601-roadster-original-imafhytxgefyg9hw.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/k2xmd8w0/t-shirt/n/e/v/l-9972601-roadster-original-imafhytxjbjywwzy.jpeg?q=70&crop=true"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 15,
+      "title": "Casual Shirt",
+      "description": "Men Regular Fit Checkered Casual Shirt",
+      "price": 3000,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Roadster",
+      "category": "Shirt",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/l111lzk0/shirt/v/g/f/40-14849866-roadster-original-imagczzrmukjdsry.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/l111lzk0/shirt/v/g/f/40-14849866-roadster-original-imagczzrmukjdsry.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/l111lzk0/shirt/x/p/b/40-14849866-roadster-original-imagczzr5h4zav5q.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/l111lzk0/shirt/k/4/a/40-14849866-roadster-original-imagczzrqgs4dmvb.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/l111lzk0/shirt/7/y/m/40-14849866-roadster-original-imagczzrygrnwygt.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 16,
+      "title": "Women Casual Shirt",
+      "description": "Women Regular Fit Self Design Spread Collar Casual Shirt",
+      "price": 19,
+      "discountPercentage": 13.31,
+      "rating": 4.83,
+      "stock": 110,
+      "brand": "Nksa Fashion",
+      "category": "Shirt",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/l/3/w/xs-nksa-shirt-0058-bl-nksa-fashion-original-imagsmgtxces8rj2.jpeg?q=70&crop=true",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/l/3/w/xs-nksa-shirt-0058-bl-nksa-fashion-original-imagsmgtxces8rj2.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/9/r/c/xs-nksa-shirt-0058-bl-nksa-fashion-original-imagsmgt9rehhqyr.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/c/o/d/xs-nksa-shirt-0058-bl-nksa-fashion-original-imagsmgtkjqnzcbs.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/q/m/w/xs-nksa-shirt-0058-bl-nksa-fashion-original-imagsmgtvjbukzjc.jpeg?q=70&crop=true"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 17,
+      "title": "Men Slim Mid Rise Blue Jeans",
+      "description": "Men Slim Mid Rise Blue Jeans",
+      "price": 1800,
+      "discountPercentage": 4.09,
+      "rating": 4.52,
+      "stock": 78,
+      "brand": "Sobbers",
+      "category": "Jeans",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/x/1/f/34-ns-sbcmj-001-sobbers-original-imag483ubygsg2ec-bb.jpeg?q=70&crop=true",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/x/1/f/34-ns-sbcmj-001-sobbers-original-imag483ubygsg2ec-bb.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/kpr8k280/jean/9/v/o/36-sbcmj-031-sobbers-original-imag3x9h5fknst5x.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/kpr8k280/jean/p/t/p/36-sbcmj-031-sobbers-original-imag3x9hzxbs4csx.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/kpr8k280/jean/x/k/7/36-sbcmj-031-sobbers-original-imag3x9hugcb4hby.jpeg?q=70&crop=true"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 18,
+      "title": "Women Blue Jeans",
+      "description": "Women Skinny High Rise Blue Jeans",
+      "price": 4000,
+      "discountPercentage": 13.1,
+      "rating": 4.56,
+      "stock": 88,
+      "brand": "GUTI",
+      "category": "Jeans",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/p/d/4/34-gtladiesjeans223-guti-original-imagmz89cczmdbtz.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/p/d/4/34-gtladiesjeans223-guti-original-imagmz89cczmdbtz.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/n/z/0/34-gtladiesjeans223-guti-original-imagmz89txcshhf6.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/x/d/s/34-gtladiesjeans223-guti-original-imagmz89mkfmzza8.jpeg?q=70&crop=false",
+
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/j/q/5/34-gtladiesjeans223-guti-original-imagmz89abffr37k.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 19,
+      "title": " Darkening Door Curtain (Pack Of 2) ",
+      "description": "GRIZNA 213 cm (7 ft) Polyester Room Darkening Door Curtain (Pack Of 2)  (3D Printed, Multicolor 14)",
+      "price": 4600,
+      "discountPercentage": 10.68,
+      "rating": 4.42,
+      "stock": 54,
+      "brand": "GRIZNA",
+      "category": "Curtains",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/curtain/l/8/3/3d-multi-colour-digital-printed-polyester-fabric-curtains-for-original-imagxzdtrdygmmsn.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/curtain/l/8/3/3d-multi-colour-digital-printed-polyester-fabric-curtains-for-original-imagxzdtrdygmmsn.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/curtain/m/5/z/3d-multi-colour-digital-printed-polyester-fabric-curtains-for-original-imagxzdt7eyqq2nu.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/curtain/s/8/q/3d-multi-colour-digital-printed-polyester-fabric-curtains-for-original-imagxzdtkfekskfh.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/curtain/m/r/m/3d-multi-colour-digital-printed-polyester-fabric-curtains-for-original-imagxzdthrscecgr.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 20,
+      "title": "Floral Flat Bedsheet",
+      "description": "Decorum 204 TC Cotton Double Floral Flat Bedsheet  (Pack of 1, White)",
+      "price": 700,
+      "discountPercentage": 16.99,
+      "rating": 4.06,
+      "stock": 140,
+      "brand": "SS Creations",
+      "category": "Bedsheet",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/l12h1u80/bedsheet/v/7/1/double-00bd414-1-double-bedsheet050244-flat-decorum-original-imagcq25sr9rjutz.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/l12h1u80/bedsheet/v/7/1/double-00bd414-1-double-bedsheet050244-flat-decorum-original-imagcq25sr9rjutz.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-bedsheet/m/a/b/fre-101-1-10177-alaficer-original-imageht9harkhggq.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/bedsheet/l/q/z/elastic-fitted-bedsheets-king-size-1-na-elastic-fitted-bedsheets-original-imagz4wv2c9yaash.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/kp78e4w0/bedsheet/6/p/n/red-heart-us-1100heart-flat-us-decor-hub-original-imag3hhjd6cdhfkh.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 21,
+      "title": "Juicer Mixer Grinder",
+      "description": "Butterfly Arrow Pro Blend 500 Juicer Mixer Grinder (4 Jars, Ink Blue)",
+      "price": 2000,
+      "discountPercentage": 4.81,
+      "rating": 4.44,
+      "stock": 133,
+      "brand": "Pigeon",
+      "category": "Appliances",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/l/e/d/-original-imaghehsw8qrhnbp.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/l/e/d/-original-imaghehsw8qrhnbp.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/b/1/2/-original-imaghehsaq5egkct.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/e/t/q/-original-imaghehsrh5mmg7s.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/h/b/j/-original-imaghehsxcmwuu84.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 22,
+      "title": "Washing Machine",
+      "description": "IFB 6 kg Steam Wash, Hard Water Wash, Active Color Protection 4 years Comprehensive Warranty Fully Automatic Front Load Washing Machine with In-built Heater White  (DIVA AQUA VSS 6008)",
+      "price": 14000,
+      "discountPercentage": 15.58,
+      "rating": 4.57,
+      "stock": 146,
+      "brand": "Whirlpool",
+      "category": "Appliances",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/3/c/d/-original-imagteu9vxf7hdt2.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/3/c/d/-original-imagteu9vxf7hdt2.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/128/128/xif0q/washing-machine-new/j/z/y/-original-imagzwjk2rcfxfeb.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/g/m/h/-original-imagzwjkeyhddpht.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/3/m/z/-original-imagqz57whsd68se.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 23,
+      "title": "PLASTIC MAKEUP ORGANIZER",
+      "description": "UPSILON 9 Compartments PLASTIC MAKEUP ORGANIZER, MULTI PURPOSE USE ORGANIZER  (Black)",
+      "price": 1400,
+      "discountPercentage": 8.04,
+      "rating": 4.85,
+      "stock": 26,
+      "brand": "Upsilon",
+      "category": "Furniture",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/vanity-box/h/t/r/makeup-vanity-box-for-cosmetics-skincare-or-stationery-products-original-imagxggjmgcyxekp.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/vanity-box/h/t/r/makeup-vanity-box-for-cosmetics-skincare-or-stationery-products-original-imagxggjmgcyxekp.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/vanity-box/o/s/7/makeup-vanity-box-for-cosmetics-skincare-or-stationery-products-original-imagxggjhza5sfch.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/vanity-box/y/c/i/makeup-organizer-with-drawers-organizer-for-cosmetics-lipstick-original-imagxshdbzxvfa3u.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/vanity-box/g/q/i/makeup-organizer-with-drawers-organizer-for-cosmetics-lipstick-original-imagxshdchcsffmn.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 24,
+      "title": "Office Executive Chair",
+      "description": "Luxury HIGH Back Leatherette with Steel Base and Warranty Mesh Office Executive Chair  (Grey, Optional Installation Available)",
+      "price": 4600,
+      "discountPercentage": 16.8,
+      "rating": 4.94,
+      "stock": 113,
+      "brand": "Cellbell",
+      "category": "Furniture",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/outdoor-chair/s/k/w/synthetic-rubber-balagifurniture-bfr-black-original-imagtzvkhhdsv4f2.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/outdoor-chair/s/k/w/synthetic-rubber-balagifurniture-bfr-black-original-imagtzvkhhdsv4f2.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/office-study-chair/e/x/e/1-iron-45-72-js-v-grey-beaatho-101-6-original-imagrxzznd87nwtm.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/office-study-chair/4/o/g/1-iron-45-72-js-v-grey-beaatho-101-6-original-imagrzzhn9frdby7.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/office-study-chair/o/f/x/1-iron-45-72-js-v-black-beaatho-101-6-original-imagrxf5wrdwdbwg.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 25,
+      "title": "Eyeconic Makeup Kit ",
+      "description": "Lakmé Ananyas Eyeconic Makeup Kit  (Kajal, Liquid Eyeliner, Curling Mascara, 15 g)",
+      "price": 1000,
+      "discountPercentage": 13.58,
+      "rating": 4.87,
+      "stock": 47,
+      "brand": "Lakme",
+      "category": "Makeup",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/kajal/g/2/x/-original-imagkzhtcwtg3emj.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/kajal/g/2/x/-original-imagkzhtcwtg3emj.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/l2jcccw0/kajal/l/f/t/-original-imagduwuvg2hcpbg.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/kajal/j/t/z/-original-imaghyqhhtcvjhwf.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/l2jcccw0/kajal/t/w/a/-original-imagduwut8urzemd.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 26,
+      "title": "Matte Lipstick",
+      "description": "SUGAR POP Matte Lipstick - 01 Taupe  (01 Taupe, 4.2 g)",
+      "price": 41,
+      "discountPercentage": 17.86,
+      "rating": 4.08,
+      "stock": 131,
+      "brand": "SugarPop",
+      "category": "Makeup",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/lipstick/4/f/h/4-2-matte-lipstick-01-taupe-sugar-pop-original-imagkyxmypah6rgn.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/lipstick/4/f/h/4-2-matte-lipstick-01-taupe-sugar-pop-original-imagkyxmypah6rgn.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/lipstick/4/a/w/4-2-matte-lipstick-01-taupe-sugar-pop-original-imagy96sdfgampe5.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/lipstick/g/p/h/4-2-matte-lipstick-01-taupe-sugar-pop-original-imagy96sgarxszzf.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/lipstick/t/z/j/4-2-matte-lipstick-01-taupe-sugar-pop-original-imagy96sanqzngc2.jpeg?q=70&crop=false",
+        "https://i.dummyjson.com/data/products/26/5.jpg",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/lipstick/4/a/w/4-2-matte-lipstick-01-taupe-sugar-pop-original-imagy96sdfgampe5.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 27,
+      "title": "Cricket Shoes for Men",
+      "description": "Jaffa 22 Cricket Shoes for Men and Boys UK-10 White-Orange Cricket Shoes For Men  (Orange)",
+      "price": 5100,
+      "discountPercentage": 15.58,
+      "rating": 4.41,
+      "stock": 17,
+      "brand": "DSC",
+      "category": "Shoes",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/ktizdzk0/shoe/q/x/g/8-1504145-01-8-dsc-white-orange-original-imag6ut6aa2jzvax.jpeg?q=70&crop=true",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/ktizdzk0/shoe/q/x/g/8-1504145-01-8-dsc-white-orange-original-imag6ut6aa2jzvax.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/w/s/m/3-na-cricket-shoes-3-dsc-white-original-imagzj8jjzymr9u6.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/ktizdzk0/shoe/x/o/y/8-1504145-01-8-dsc-white-orange-original-imag6ut6qumuhb9y.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/a/w/l/3-na-cricket-shoes-3-dsc-white-original-imagzj8jpbcsqh5f.jpeg?q=70&crop=true"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 28,
+      "title": "Football Shoes For Men",
+      "description": "X CRAZYFAST.3 FG Football Shoes For Men  (White)",
+      "price": 2000,
+      "discountPercentage": 16.49,
+      "rating": 4.82,
+      "stock": 54,
+      "brand": "ADIDAS",
+      "category": "Shoes",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/4/j/z/-original-imagtbterrb967j2.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/4/j/z/-original-imagtbterrb967j2.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/o/n/l/-original-imagrzgbra6cyxzx.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/x/x/u/-original-imagrzgberdz5yft.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/4/o/4/-original-imagrzgbbhghuejt.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/o/7/2/-original-imagrzgbbyggbpv6.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 29,
+      "title": "Desktop Speaker",
+      "description": "ZEBRONICS WARRIOR II 2.0 CHANNEL USB SPEAKER, LED LIGHTS WITH USB POWERED AND VOLUME CONTROL 10 W Laptop/Desktop Speaker  (Black, 2.0 Channel)",
+      "price": 6000,
+      "discountPercentage": 15.34,
+      "rating": 4.44,
+      "stock": 7,
+      "brand": "Zebronics",
+      "category": "Appliances",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/kmkxbww0/speaker/laptop-desktop-speaker/7/x/u/warrior-ii-2-0-channel-usb-speaker-led-lights-with-usb-powered-original-imagfg3h9azuzsxt.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/kmkxbww0/speaker/laptop-desktop-speaker/7/x/u/warrior-ii-2-0-channel-usb-speaker-led-lights-with-usb-powered-original-imagfg3h9azuzsxt.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/kmkxbww0/speaker/laptop-desktop-speaker/q/6/1/warrior-ii-2-0-channel-usb-speaker-led-lights-with-usb-powered-original-imagfg3ht8yenatt.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/kmkxbww0/speaker/laptop-desktop-speaker/o/f/0/warrior-ii-2-0-channel-usb-speaker-led-lights-with-usb-powered-original-imagfg3hwctrzhhh.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/kmf7ki80/speaker/laptop-desktop-speaker/r/0/u/warrior-ii-2-0-channel-usb-speaker-led-lights-with-usb-powered-original-imagfbyrkywysytb.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 30,
+      "title": "LED Smart Google TV",
+      "description": "MOTOROLA EnvisionX 127 cm (50 inch) Ultra HD (4K) LED Smart Google TV with Inbuilt Box Speakers  (50UHDGDMBSXP)",
+      "price": 60000,
+      "discountPercentage": 2.92,
+      "rating": 4.92,
+      "stock": 54,
+      "brand": "Motorola",
+      "category": "Appliances",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/f/r/a/-original-imagtkmpjhtnarbg.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/television/f/r/a/-original-imagtkmpjhtnarbg.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/television/2/k/b/-original-imagtkmpgaqvkrma.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/television/y/9/u/-original-imagtkmpkhzdbvub.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/television/o/x/h/-original-imagtkmpjjrsntqp.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 31,
+      "title": "Chiffon Saree",
+      "description": "Printed, Floral Print Daily Wear Chiffon Saree  (Green, Mustard)",
+      "price": 4000,
+      "discountPercentage": 17,
+      "rating": 4.16,
+      "stock": 140,
+      "brand": "MIRCHI FASHION",
+      "category": "Saree",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/i/w/t/free-saree-new2023-simple-light-weight-saree-chiffon-print-saree-original-imagufkn6ygdfnpm.jpeg?q=70&crop=true",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/i/w/t/free-saree-new2023-simple-light-weight-saree-chiffon-print-saree-original-imagufkn6ygdfnpm.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/y/c/q/free-saree-new2023-simple-light-weight-saree-chiffon-print-saree-original-imagu74myg8ysacz.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/l/d/v/free-saree-new2023-simple-light-weight-saree-chiffon-print-saree-original-imagufknhtkzk7nn.jpeg?q=70&crop=true",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/sari/c/d/c/free-saree-new2023-simple-light-weight-saree-chiffon-print-saree-original-imagufkn5ffs723q.jpeg?q=70&crop=true"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 32,
+      "title": "SONY PS4 Pro ",
+      "description": "SONY PS4 Pro 500 Million Limited Edition 2 TB  (Translucent Dark Blue)",
+      "price": 50000,
+      "discountPercentage": 15.59,
+      "rating": 4.74,
+      "stock": 30,
+      "brand": "SONY",
+      "category": "Games",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/jaij3bk0/gamingconsole/h/q/r/1-playstation-4-ps4-slim-sony-na-original-imafy2pqftdfjacz.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/jaij3bk0/gamingconsole/h/q/r/1-playstation-4-ps4-slim-sony-na-original-imafy2pqftdfjacz.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/j8ndea80/gamingconsole/8/z/q/playstation-4-ps4-slim-1-sony-na-original-imaeymbrnhgrhxfv.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/j5vcknk0/gamingconsole/2/d/d/1-playstation-4-ps4-slim-sony-na-original-imaewggexy3pdwy5.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/jmp79u80/gamingconsole/e/h/d/2-ps4-pro-500-million-limited-edition-sony-na-original-imaf9jepeejycbxf.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    },
+    {
+      "id": 33,
+      "title": "Cricket Bat",
+      "description": "Lyzoo Plastic, Hard PVC Heavy duty 15+ Age Plastic PVC/Plastic Cricket Bat  (850-900 g)",
+      "price": 7000,
+      "discountPercentage": 17,
+      "rating": 4.31,
+      "stock": 106,
+      "brand": "Lyzoo",
+      "category": "Games",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/bat/d/i/j/850-900-plastic-cricket-bat-hard-pvc-heavy-duty-15-age-plastic-original-imagnv9fbhg9zh4g.jpeg?q=70&crop=false",
+      "images": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/bat/d/i/j/850-900-plastic-cricket-bat-hard-pvc-heavy-duty-15-age-plastic-original-imagnv9fbhg9zh4g.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/bat/x/6/i/850-900-plastic-cricket-bat-hard-pvc-heavy-duty-15-age-plastic-original-imagnv9fyysbz764.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/bat/j/n/d/850-900-plastic-cricket-bat-hard-pvc-heavy-duty-15-age-plastic-original-imagnv9fgg8fe7bq.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/bat/c/v/y/850-900-plastic-cricket-bat-hard-pvc-heavy-duty-15-age-plastic-original-imagnv9f5fybahd6.jpeg?q=70&crop=false"
+      ],
+      "deleted": false
+    }
+  ],
+  "brands": [
+    {
+      "value": "Apple",
+      "label": "Apple",
+      "checked": false
+    },
+    {
+      "value": "Samsung",
+      "label": "Samsung",
+      "checked": false
+    },
+    {
+      "value": "OPPO",
+      "label": "OPPO",
+      "checked": false
+    },
+    {
+      "value": "Microsoft",
+      "label": "Microsoft",
+      "checked": false
+    },
+    {
+      "value": "Infinix",
+      "label": "Infinix",
+      "checked": false
+    },
+    {
+      "value": "HP Pavilion",
+      "label": "HP Pavilion",
+      "checked": false
+    },
+    {
+      "value": "URGear",
+      "label": "URGear",
+      "checked": false
+    },
+    {
+      "value": "Madfrog",
+      "label": "Madfrog",
+      "checked": false
+    },
+    {
+      "value": "Roadster",
+      "label": "Roadster",
+      "checked": false
+    },
+    {
+      "value": "Nksa Fashion",
+      "label": "Nksa Fashion",
+      "checked": false
+    },
+    {
+      "value": "Sobbers",
+      "label": "Sobbers",
+      "checked": false
+    },
+    {
+      "value": "GUTI",
+      "label": "GUTI",
+      "checked": false
+    },
+    {
+      "value": "GRIZNA",
+      "label": "GRIZNA",
+      "checked": false
+    },
+    {
+      "value": "SS Creations",
+      "label": "SS Creations",
+      "checked": false
+    },
+    {
+      "value": "Pigeon",
+      "label": "Pigeon",
+      "checked": false
+    },
+    {
+      "value": "Whirlpool",
+      "label": "Whirlpool",
+      "checked": false
+    },
+    {
+      "value": "Upsilon",
+      "label": "Upsilon",
+      "checked": false
+    },
+    {
+      "value": "Cellbell",
+      "label": "Cellbell",
+      "checked": false
+    },
+    {
+      "value": "Lakme",
+      "label": "Lakme",
+      "checked": false
+    },
+    {
+      "value": "SugarPop",
+      "label": "SugarPop",
+      "checked": false
+    },
+    {
+      "value": "DSC",
+      "label": "DSC",
+      "checked": false
+    },
+    {
+      "value": "ADIDAS",
+      "label": "ADIDAS",
+      "checked": false
+    },
+    {
+      "value": "Zebronics",
+      "label": "Zebronics",
+      "checked": false
+    },
+    {
+      "value": "Motorola",
+      "label": "Motorola",
+      "checked": false
+    },
+    {
+      "value": "MIRCHI FASHION",
+      "label": "MIRCHI FASHION",
+      "checked": false
+    },
+    {
+      "value": "SONY",
+      "label": "SONY",
+      "checked": false
+    },
+    {
+      "value": "Lyzoo",
+      "label": "Lyzoo",
+      "checked": false
+    }
+  ],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "Qwerty123",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "Abhishek Rathore",
+          "email": "test@gmail.com",
+          "phone": "1234567788",
+          "street": "11th Main",
+          "city": "Banaglore",
+          "state": "Karnataka",
+          "pinCode": "560034"
+        },
+        {
+          "name": "Jack Morris",
+          "email": "jack@gmail.com",
+          "city": "Delhi",
+          "state": "Delhi",
+          "pinCode": "110006",
+          "phone": "12312331232",
+          "street": "12th cross"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "email": "demo@gmail.com",
+      "password": "Qwerty123",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "Demo user",
+          "email": "demo@gmail.com",
+          "phone": "1234567788",
+          "street": "11th Main",
+          "city": "Mumbai",
+          "state": "Maharastra",
+          "pinCode": "220001"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "Qwerty123",
+      "addresses": [],
+      "role": "admin",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/5/1.jpg",
+        "https://i.dummyjson.com/data/products/5/2.jpg",
+        "https://i.dummyjson.com/data/products/5/3.jpg"
+      ],
+      "productId": 5,
+      "quantity": 1,
+      "user": 2,
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 6
+        }
+      ],
+      "totalAmount": 1798,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Abhishek R",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "dispatched",
+      "id": 1
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 6
+        }
+      ],
+      "totalAmount": 1798,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Abhishek R",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "delivered",
+      "id": 2
+    },
+    {
+      "items": [
+        {
+          "id": 3,
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": ["https://i.dummyjson.com/data/products/3/1.jpg"],
+          "quantity": 2,
+          "user": 2
+        },
+        {
+          "id": 5,
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 1,
+          "user": 2
+        }
+      ],
+      "totalAmount": 2997,
+      "totalItems": 3,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "cancelled",
+      "id": 3
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://i.dummyjson.com/data/products/1/2.jpg",
+            "https://i.dummyjson.com/data/products/1/3.jpg",
+            "https://i.dummyjson.com/data/products/1/4.jpg",
+            "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1098,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Abhishek R",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "pending",
+      "id": 4
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 899,
+      "totalItems": 1,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Abhishek Rathore",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Jack Morris",
+            "email": "jack@gmail.com",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110006",
+            "phone": "12312331232",
+            "street": "12th cross"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Abhishek Rathore",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "pending",
+      "id": 5
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 1111,
+          "discountPercentage": 17.94,
+          "rating": 0,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1824,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Abhishek Rathore",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Jack Morris",
+            "email": "jack@gmail.com",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110006",
+            "phone": "12312331232",
+            "street": "12th cross"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Jack Morris",
+        "email": "jack@gmail.com",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110006",
+        "phone": "12312331232",
+        "street": "12th cross"
+      },
+      "status": "pending",
+      "id": 6
+    },
+    {
+      "items": [
+        {
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": ["https://i.dummyjson.com/data/products/3/1.jpg"],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        },
+        {
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 2
+        }
+      ],
+      "totalAmount": 1502,
+      "totalItems": 2,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": 7
+    },
+    {
+      "items": [
+        {
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": ["https://i.dummyjson.com/data/products/3/1.jpg"],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        },
+        {
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 2
+        }
+      ],
+      "totalAmount": 1502,
+      "totalItems": 2,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": 8
+    },
+    {
+      "items": [
+        {
+          "title": "MacBook Pro",
+          "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+          "price": 1999,
+          "discountPercentage": 11.02,
+          "rating": 0,
+          "stock": 83,
+          "brand": "Apple",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+          "images": [
+            "https://i.dummyjson.com/data/products/6/1.png",
+            "https://i.dummyjson.com/data/products/6/2.jpg",
+            "https://i.dummyjson.com/data/products/6/3.png",
+            "https://i.dummyjson.com/data/products/6/thumbnail.png"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1779,
+      "totalItems": 1,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": 9
+    },
+    {
+      "items": [
+        {
+          "title": "Microsoft Surface Laptop 4",
+          "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+          "price": 1499,
+          "discountPercentage": 10.23,
+          "rating": 4.43,
+          "stock": 68,
+          "brand": "Microsoft Surface",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/8/1.jpg",
+            "https://i.dummyjson.com/data/products/8/2.jpg",
+            "https://i.dummyjson.com/data/products/8/3.jpg",
+            "https://i.dummyjson.com/data/products/8/4.jpg",
+            "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1346,
+      "totalItems": 1,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": 10
+    },
+    {
+      "items": [
+        {
+          "title": "Microsoft Surface Laptop 4",
+          "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+          "price": 1499,
+          "discountPercentage": 10.23,
+          "rating": 4.43,
+          "stock": 68,
+          "brand": "Microsoft Surface",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/8/1.jpg",
+            "https://i.dummyjson.com/data/products/8/2.jpg",
+            "https://i.dummyjson.com/data/products/8/3.jpg",
+            "https://i.dummyjson.com/data/products/8/4.jpg",
+            "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 2692,
+      "totalItems": 2,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "value": "Smartphones",
+      "label": "Smartphones",
+      "checked": false
+    },
+    {
+      "value": "Laptops",
+      "label": "Laptops",
+      "checked": false
+    },
+    {
+      "value": "Tshirt",
+      "label": "Tshirt",
+      "checked": false
+    },
+    {
+      "value": "Shirt",
+      "label": "Shirt",
+      "checked": false
+    },
+    {
+      "value": "Jeans",
+      "label": "Jeans",
+      "checked": false
+    },
+    {
+      "value": "Curtains",
+      "label": "Curtains",
+      "checked": false
+    },
+    {
+      "value": "Bedsheet",
+      "label": "Bedsheet",
+      "checked": false
+    },
+    {
+      "value": "Appliances",
+      "label": "Appliances",
+      "checked": false
+    },
+    {
+      "value": "Furniture",
+      "label": "Furniture",
+      "checked": false
+    },
+    {
+      "value": "Makeup",
+      "label": "Makeup",
+      "checked": false
+    },
+    {
+      "value": "Shoes",
+      "label": "Shoes",
+      "checked": false
+    },
+    {
+      "value": "Saree",
+      "label": "Saree",
+      "checked": false
+    },
+    {
+      "value": "GRIZNA",
+      "label": "GRIZNA",
+      "checked": false
+    },
+    {
+      "value": "Games",
+      "label": "Games",
+      "checked": false
+    }
+  ]
+}
